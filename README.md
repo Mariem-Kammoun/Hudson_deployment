@@ -14,5 +14,11 @@ From Dockerfile, I installed java JDK, Tomcat then I deployed hudson and install
 7. We can also in such cases only do the build if the output log contains a given regular expression. All you have to do is activate the advanced configuration options by checking the option "Only rerun build if regular expression is found in output".
 
 ##Screenshots:
-
+![1](/Screenshots/1.PNG)
+![2](/Screenshots/2.PNG)
+![3](/Screenshots/3.PNG)
+![4](/Screenshots/4.PNG)
+![5](/Screenshots/5.PNG)
+![6](/Screenshots/6.PNG)
+![7](/Screenshots/7.PNG)
  
